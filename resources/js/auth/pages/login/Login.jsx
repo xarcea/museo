@@ -7,7 +7,7 @@ export const Login = () => {
 
     return (
         <div className="body">
-            <div className='componente'>
+            <div className='log-componente'>
                 <h1>¡Bienvenido!</h1>
                 <h3>Introduce tus datos para iniciar sesión</h3>
                 <img className='img-datos-usuario' src='/assets/imgs/account_circle_white.svg' />

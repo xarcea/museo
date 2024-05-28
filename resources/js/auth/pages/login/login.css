@@ -1,4 +1,4 @@
-.componente {
+.log-componente {
     display: flex;
     flex-direction: column;
     background-color: #b5aa98;
@@ -13,7 +13,6 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    font-family: 'Roboto', sans-serif;
     align-items: center;
     padding-top: 50px;
 }

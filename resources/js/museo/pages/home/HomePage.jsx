@@ -7,12 +7,12 @@ export const HomePage = () => {
 
     return (
         <MainLayout>
-            <div className='componente'>
+            <div className='hp-componente'>
                 <div className="h1">
                     <h1>{empleado.puesto}</h1>
                 </div>
                 <div className="datos-usuario">
-                    <img className='img-datos-usuario' src='src\assets\imgs\account_circle.svg' />
+                    <img className='img-datos-usuario' src='/assets/imgs/account_circle.svg' />
                     <div className="datos-usuario-texto">
                         <h2>{empleado.nombre}</h2>
                         <h2>{empleado.id}</h2>
